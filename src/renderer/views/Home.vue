@@ -95,7 +95,7 @@ const elements = ref([
         </VueFlow>
         <!-- <h1>test</h1> -->
       </div>
-      <settings-bar class="borderLeft m-2 ml-0" />
+      <settings-bar class="m-2 ml-0" />
     </div>
 
     <div class="flex gap-2 p-2 bg-surface-800">
